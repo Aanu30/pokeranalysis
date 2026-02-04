@@ -1,0 +1,17 @@
+{
+  "total_sessions": 36,
+  "total_profit": 274.86,
+  "win_rate": 55.6,
+  "avg_profit": 7.64,
+  "std_dev": 37.79,
+  "p_value_ttest": 0.2335,
+  "p_value_lr": 0.2237,
+  "ci_95_lower": -4.42,
+  "ci_95_upper": 20.28,
+  "prob_winning_player": 88.6,
+  "sessions_for_80_power": 195,
+  "power_current": 21.8,
+  "max_drawdown": -176.4,
+  "effect_size": 0.202,
+  "last_updated": "2026-02-04"
+}
