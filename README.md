@@ -2,7 +2,7 @@
 
 A statistical breakdown of my live poker results using hypothesis testing, maximum likelihood estimation, Bayesian inference, and bootstrap resampling. Built as a practical application of concepts from **ST202 - Probability and Statistical Inference** at LSE.
 
-![Cumulative Profit](outputs/01_cumulative_profit.png)
+![Cumulative Profit](01_cumulative_profit.png)
 
 ## Key Findings
 
